@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'lolinrl',
 
   // open graph metadata (optional)
-  description: '今日誓不emo！',
+  description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
